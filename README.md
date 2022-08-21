@@ -1,4 +1,4 @@
-## Otimização de rota com algoritmo genéticos em Python
+## Otimização de rota com algoritmo genéticos em Python [DEAP]
 ---
 ---
 
